@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e1bf8d0-05c4-4d24-9d3d-e757eccef583" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Rectangle 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images-removebg-preview (1) 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images__1_-removebg-preview 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js-javascript-round-logo-icon-png-7017516947717339mnyf7eumy-removebg-preview 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail-removebg-preview 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/st_small_507x507-pad_600x600_f8f8f8.u3-removebg-preview 1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +76,7 @@
       <updated>1736590654858</updated>
       <workItem from="1736590656268" duration="1618000" />
       <workItem from="1736777995247" duration="97000" />
-      <workItem from="1738475011169" duration="7259000" />
+      <workItem from="1738475011169" duration="7665000" />
     </task>
     <servers />
   </component>
