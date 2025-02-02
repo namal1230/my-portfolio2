@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e1bf8d0-05c4-4d24-9d3d-e757eccef583" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/158481-middle-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/1732512876708.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/200.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/200w.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/WhatsApp_Image_2024-12-11_at_18.18.43_07180766-removebg-preview.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/call.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/istockphoto-858209386-612x612-removebg-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/telephone (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -65,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\my-portfolio2" />
       <recent name="C:\Users\user\Documents\my-portfolio2\assets" />
     </key>
   </component>
@@ -85,7 +78,7 @@
       <updated>1736590654858</updated>
       <workItem from="1736590656268" duration="1618000" />
       <workItem from="1736777995247" duration="97000" />
-      <workItem from="1738475011169" duration="4309000" />
+      <workItem from="1738475011169" duration="4985000" />
     </task>
     <servers />
   </component>
