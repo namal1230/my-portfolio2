@@ -7,6 +7,8 @@ nav {
     justify-content: center;
     background-color: white;
     z-index: 1;
+    padding: 10px;
+    margin: 10px;
 }
 
 nav >h3 {
@@ -21,6 +23,11 @@ nav img {
 nav a {
     text-decoration: none;
     color: aquamarine;
+}
+
+header {
+    padding: 10px;
+    margin: 10px;
 }
 
 header h1 {
@@ -66,10 +73,18 @@ header p{
     margin-left: 15vw;
     font-size: 30px;
 }
-
+.section-02{
+    padding: 10px;
+    margin: 10px;
+}
 .section-02 div{
     display: inline-block;
     font-size: 1.3vw;
+}
+
+.section-03{
+    padding: 10px;
+    margin: 10px;
 }
 
 .section-03 div{
@@ -78,10 +93,18 @@ header p{
     margin: auto;
 }
 
+.section-04 {
+    padding: 10px;
+    margin: 10px;
+}
+
 .section-04 img{
     width: 500px;
 }
-
+.section-05 {
+    padding: 10px;
+    margin: 10px;
+}
 footer {
     height: 100px;
     background-color: lightslategrey;
