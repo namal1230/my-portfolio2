@@ -1,0 +1,30 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    position: sticky;
+    top: 10px;
+    justify-content: center;
+    background-color: white;
+}
+
+.nav-bar>h3 {
+    padding: 20px;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+header>h1 {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+header>img {
+    position: relative;
+    left: 0;
+}
