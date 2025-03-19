@@ -72,3 +72,16 @@ a {
     box-shadow: 5px 5px 5px black;
     border-radius: 60px;
 }
+
+.section2-image{
+    position: absolute;
+    width: 500px;
+    /*display: none;*/
+
+}
+
+.section-02-biography{
+    margin-top: 50px;
+    margin-left: 550px;
+    width: 500px;
+}
