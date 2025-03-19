@@ -90,3 +90,20 @@ a {
 .section-03{
     margin-top: 300px;
 }
+
+.section-03 img{
+    width: 300px;
+    height: 350px;
+}
+
+
+.section-03 div div{
+    display: inline-block;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+
+.section-03 div div:hover{
+    box-shadow: 10px 5px 5px lightslategrey;
+}
