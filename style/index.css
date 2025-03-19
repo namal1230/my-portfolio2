@@ -39,6 +39,36 @@ a {
 
 .header-image {
     position: absolute;
-    right: 20px;
+    right: 50px;
+    top: 350px;
+}
 
+.section-01{
+    width: 900px;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.header div {
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.header div h2:nth-child(2){
+    margin-left: 50px;
+}
+
+.header div h3{
+    margin-left: 100px;
+}
+
+.header-image2{
+    width: 60px;
+    position: fixed;
+}
+
+.header-image2:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 60px;
 }
