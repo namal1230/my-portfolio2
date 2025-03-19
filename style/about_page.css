@@ -42,6 +42,11 @@ header p{
     font-size: 30px;
 }
 
+.section-01 div{
+    margin-left: 0;
+    margin-right: 0;
+    align-items: center;
+}
 
 .section-01{
     display: inline;
@@ -60,4 +65,15 @@ header p{
 .section-01 div p{
     margin-left: 15vw;
     font-size: 30px;
+}
+
+.section-02 div{
+    display: inline-block;
+    /*font-weight: bold;*/
+}
+
+.section-03 div{
+    padding-left: 20vw;
+    padding-right: 20vw;
+    margin: auto;
 }
