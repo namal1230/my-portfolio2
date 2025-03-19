@@ -42,3 +42,22 @@ header p{
     font-size: 30px;
 }
 
+
+.section-01{
+    display: inline;
+}
+
+.section-01 img {
+    padding-left: 15vw;
+    display: inline-block;
+    width: 500px;
+}
+.section-01 div{
+    margin-left: 100px;
+    display: inline-block;
+}
+
+.section-01 div p{
+    margin-left: 15vw;
+    font-size: 30px;
+}
