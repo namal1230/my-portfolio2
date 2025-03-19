@@ -3,9 +3,10 @@
     flex-direction: row;
     /*flex-wrap: wrap;*/
     position: sticky;
-    top: 10px;
+    top: 0;
     justify-content: center;
     background-color: white;
+    z-index: 1;
 }
 
 .nav-bar>h3 {
@@ -13,7 +14,7 @@
     font-size: 40px;
 }
 
-a {
+.nav-bar a {
     text-decoration: none;
     color: aquamarine;
 }
@@ -28,6 +29,15 @@ a {
 /*    position: relative;*/
 /*    left: 0;*/
 /*}*/
+
+.header {
+    margin: 10px;
+    padding: 10px;
+}
+
+.header a{
+    text-decoration: none;
+}
 
 .header h1{
     text-align: center;
@@ -47,6 +57,9 @@ a {
     width: 90vw;
     margin-top: 200px;
     font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .header div {
@@ -89,6 +102,9 @@ a {
 
 .section-03{
     margin-top: 300px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
 
 .section-03 img{
@@ -110,6 +126,19 @@ a {
 }
 
 footer {
-    height: 300px;
+    height: 100px;
     background-color: lightslategrey;
+    text-align: center;
+}
+
+footer h4 {
+    display: inline-block;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-size: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: aquamarine;
 }
