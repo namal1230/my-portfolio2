@@ -1,0 +1,63 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    position: sticky;
+    top: 0;
+    justify-content: center;
+    background-color: white;
+    z-index: 1;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav >h3 {
+    padding: 20px;
+    font-size: 40px;
+}
+
+nav img {
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+header {
+    margin-left: 20vw;
+    margin-top: 5vh;
+}
+
+header>h1:first-child{
+    margin-left: 150px;
+}
+
+.section-01 {
+    margin-left: 20vw;
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+}
+
+.section-01  a{
+    text-decoration: none;
+}
+
+
+.image-container div{
+    width: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-01 div img {
+    margin-top: 20px;
+}
+
+.div-container p {
+    margin-top: 40px;
+}
