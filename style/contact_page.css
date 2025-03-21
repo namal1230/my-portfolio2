@@ -67,3 +67,7 @@ header>h1:first-child{
     width: 70vw;
     margin-left: 10vw;
 }
+
+footer {
+    margin-left: 10vw;
+}
