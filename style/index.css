@@ -5,7 +5,7 @@
     position: sticky;
     top: 0;
     justify-content: center;
-    background-color: white;
+    /*background-color: white;*/
     z-index: 1;
 }
 
@@ -119,9 +119,13 @@
 
 .section-03 div div{
     display: inline-block;
-    background-color: lightblue;
+    background-color: #ffffff;
     padding: 10px;
     margin: 10px;
+}
+
+.section-03 div p{
+    color: #000;
 }
 
 
@@ -131,7 +135,7 @@
 
 footer {
     height: 100px;
-    background-color: lightslategrey;
+    background-color: #000;
     text-align: center;
 }
 
@@ -145,4 +149,20 @@ footer h4 {
 footer a{
     text-decoration: none;
     color: aquamarine;
+}
+
+body {
+    background: #000;
+}
+
+.header h1{
+    color: #49c5b6;
+}
+
+* {
+    color: #ffffff;
+}
+
+nav {
+    background: #000;
 }
