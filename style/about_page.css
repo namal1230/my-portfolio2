@@ -59,6 +59,10 @@ header p{
     display: inline;
 }
 
+.section-01 b {
+    color: cyan;
+}
+
 .section-01 img {
     padding-left: 15vw;
     display: inline-block;
@@ -87,6 +91,11 @@ header p{
     margin: 10px;
 }
 
+.section-03 h1{
+    font-size: 5vw;
+    margin-left: 30vw;
+}
+
 .section-03 div{
     padding-left: 20vw;
     padding-right: 20vw;
@@ -98,12 +107,29 @@ header p{
     margin: 10px;
 }
 
+.section-04 h1 {
+    font-size: 5vw;
+    margin-left: 35vw;
+}
 .section-04 img{
-    width: 500px;
+    width: 25vw;
+    aspect-ratio: 1/2;
+    margin: 15px;
+}
+
+.section-04-cards{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 5vw;
 }
 .section-05 {
     padding: 10px;
     margin: 10px;
+}
+
+.section-05 h1{
+    font-size: 5vw;
+    margin-left: 35vw;
 }
 footer {
     height: 100px;
