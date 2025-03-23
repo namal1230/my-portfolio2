@@ -23,11 +23,14 @@
     color: aquamarine;
 }
 
-/*header>h1 {*/
-/*    margin-left: 0;*/
-/*    margin-right: 0;*/
-/*    text-align: center;*/
-/*}*/
+header>h1 {
+    font-size: 6vw;
+}
+
+header span{
+    color: aqua;
+    font-size: 30px;
+}
 
 /*header>img {*/
 /*    position: relative;*/
@@ -90,7 +93,15 @@
     box-shadow: 5px 5px 5px black;
     border-radius: 60px;
 }
+.section-02 {
+    margin-top: 200px;
 
+}
+
+.section-02 h3{
+    margin-left: 30vw;
+    font-size: 5vw;
+}
 .section2-image{
     position: absolute;
     width: 500px;
@@ -104,33 +115,46 @@
     width: 500px;
 }
 
-.section-03{
+.section-02 p{
+    font-size: 30px;
+}
+
+#education {
+    padding-left: 30vw;
+    font-size: 5vw;
+}
+
+.section03{
     margin-top: 300px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
 }
 
-.section-03 img{
-    width: 300px;
-    height: 350px;
+.card {
+    display: flex;
+    flex-flow: row wrap;
+
 }
 
-
-.section-03 div div{
-    display: inline-block;
-    background-color: #ffffff;
-    padding: 10px;
+.section03 div div{
+    background-color: black;
+    border: 3px solid aqua;
+    border-radius: 30px;
+    padding: 20px;
     margin: 10px;
+    height: 300px;
+    aspect-ratio: 1/1;
 }
 
-.section-03 div p{
-    color: #000;
-}
 
-
-.section-03 div div:hover{
+.section03 div div:hover{
     box-shadow: 10px 5px 5px lightslategrey;
+}
+
+.card div h1,p{
+    color: white;
+}
+
+.card div p {
+    font-size: 15px;
 }
 
 footer {
